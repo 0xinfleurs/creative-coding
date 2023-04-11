@@ -1,4 +1,4 @@
 # p5.js
 
-Draws a random number of stars in random positions each run. 
+Some p5 projects that I've been working on lately :) #fun
 
